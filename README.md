@@ -1,8 +1,14 @@
 ![Github Banner](assets/github-banner.jpg)
 
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there <img src="assets/wave.gif" width="28px" alt="hi"> welcome to my Profile
 
-I'm Sumit, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or recording tutorials.
+Greetings! I'm Sk Sohorab Hossain, a passionate and versatile full-stack web developer with a deep understanding of various technologies. With a strong foundation in PHP, I specialize in frameworks like Laravel and CodeIgniter, ensuring robust and scalable backend solutions.
+
+My expertise extends to WordPress, where I excel in crafting custom themes and plugins to meet specific project requirements. On the frontend, I'm well-versed in React, building dynamic and responsive user interfaces that elevate the overall user experience. Additionally, I leverage Next.js for seamless and efficient server-side rendering, providing fast-loading and SEO-friendly web applications.
+
+In the realm of server-side development, I have a solid command of Node.js, while my database proficiency spans across MySQL and MongoDB. Additionally, my familiarity with AWS allows me to deploy and manage applications efficiently in the cloud.
+
+With a commitment to staying current with the ever-evolving tech landscape, I bring a holistic approach to web development, ensuring that both the frontend and backend seamlessly integrate to deliver exceptional digital experiences.
 
 :coffee: &emsp;Connect with me!
 
