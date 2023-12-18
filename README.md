@@ -24,100 +24,184 @@ With a commitment to staying current with the ever-evolving tech landscape, I br
 :e-mail: &emsp;How to reach me: sayhitorainmaker@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
 
-#### Things I code with
+### Programming Languages I Work With
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Php Badge](https://img.shields.io/badge/-Php-7A86B8?style=for-the-badge&labelColor=black&logo=php&logoColor=7A86B8)](#)
+[![Mysql Badge](https://img.shields.io/badge/-Mysql-e97b00?style=for-the-badge&labelColor=black&logo=mysql&logoColor=e97b00)](#)
 
-### Tutorials
+### PHP Framework That i have great knowledge
 
-[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-F13C2F?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F13C2F)](#)
+[![Codeigniter Badge](https://img.shields.io/badge/-Codeigniter-dd4814?style=for-the-badge&labelColor=black&logo=codeigniter&logoColor=dd4814)](#)
+[![Symfony Badge](https://img.shields.io/badge/-Symfony-7A86B8?style=for-the-badge&labelColor=black&logo=symfony&logoColor=7A86B8)](#)
 
-### My Projects & Ventures
+### Javascript Framework That i have great knowledge
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Responses</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
-      <td>Programming related Learning Platform for Bangladesh</td>
-      <td>200K+ active learners</td>
-    </tr>
-    <tr>
-      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
-      <td>Visual Studio Code Editor Theme</td>
-      <td>84K+ installs</td>
-    </tr>
-    <tr>
-      <td>Listenyzen</td>
-      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
-      <td>65+ clients</td>
-    </tr>
-    <tr>
-      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
-      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
-      <td>120+ clients</td>
-    </tr>
-    <tr>
-      <td>Prism</td>
-      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
-      <td>2.5k+ Distributors Nationwide</td>
-    </tr>
-    <tr>
-      <td>Unilever MARS</td>
-      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
-      <td>20 million+ Consumer Data Managed Already</td>
-    </tr>
-    <tr>
-      <td>Microzen</td>
-      <td>Microcredit Automation System with AI based Decision Support System</td>
-      <td>10 million+ Consumer Financial Data Managed Already</td>
-    </tr>
-  </tbody>
-</table>
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Nextjs Badge](https://img.shields.io/badge/-Next.js-192a56?style=for-the-badge&labelColor=black&logo=next.js&logoColor=ffffff)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
-### 📺 &emsp;Latest YouTube Videos
+[//]: # (### My Projects & Ventures)
 
-<!-- YOUTUBE:START -->
-- [Git/GitHub Refresher - Reactive Accelerator course by Learn with Sumit](https://www.youtube.com/watch?v=l2yIQfnuexc)
-- [JavaScript Refresher - Reactive Accelerator course by Learn with Sumit](https://www.youtube.com/watch?v=3sdpkFZUhlA)
-- [Reactive Accelerator - Bangla React and Next.js course by Learn with Sumit](https://www.youtube.com/watch?v=666K4aizIu8)
-- [Episode 10 - JavaScript Framework wonders - Next js](https://www.youtube.com/watch?v=q2Uz3gE-1DA)
-- [Episode 9 - Web Dev Essentials - Harnessing the Power of Git &amp; GitHub](https://www.youtube.com/watch?v=13VAykLXbiw)
-<!-- YOUTUBE:END -->
+[//]: # ()
+[//]: # (<table>)
 
-#### Business
+[//]: # (  <thead align="center">)
 
-:email: &emsp;sayhitorainmaker@gmail.com
-<br >
-:email: &emsp;sumit@learnwithsumit.com
-<br >
-:email: &emsp;sumit@analyzenbd.com
+[//]: # (    <tr border: none;>)
 
-#### Profile Visits
+[//]: # (      <td><b>Projects</b></td>)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=learnwithsumit.learnwithsumit)
+[//]: # (      <td><b>Description</b></td>)
 
-<details>
-<summary>
-  You wanna know more about me?
-</summary>
+[//]: # (      <td><b>Responses</b></td>)
 
-<br >
+[//]: # (    </tr>)
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
+[//]: # (  </thead>)
 
-#### What is Learn with Sumit?
+[//]: # (  <tbody>)
 
-"Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
+[//]: # (    <tr>)
 
-#### Github Stats
+[//]: # (      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>)
 
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs)
+[//]: # (      <td>Programming related Learning Platform for Bangladesh</td>)
 
-</details>
+[//]: # (      <td>200K+ active learners</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>)
+
+[//]: # (      <td>Visual Studio Code Editor Theme</td>)
+
+[//]: # (      <td>84K+ installs</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Listenyzen</td>)
+
+[//]: # (      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>)
+
+[//]: # (      <td>65+ clients</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>)
+
+[//]: # (      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>)
+
+[//]: # (      <td>120+ clients</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Prism</td>)
+
+[//]: # (      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>)
+
+[//]: # (      <td>2.5k+ Distributors Nationwide</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Unilever MARS</td>)
+
+[//]: # (      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>)
+
+[//]: # (      <td>20 million+ Consumer Data Managed Already</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (    <tr>)
+
+[//]: # (      <td>Microzen</td>)
+
+[//]: # (      <td>Microcredit Automation System with AI based Decision Support System</td>)
+
+[//]: # (      <td>10 million+ Consumer Financial Data Managed Already</td>)
+
+[//]: # (    </tr>)
+
+[//]: # (  </tbody>)
+
+[//]: # (</table>)
+
+[//]: # ()
+[//]: # (### 📺 &emsp;Latest YouTube Videos)
+
+[//]: # ()
+[//]: # (<!-- YOUTUBE:START -->)
+
+[//]: # (- [Git/GitHub Refresher - Reactive Accelerator course by Learn with Sumit]&#40;https://www.youtube.com/watch?v=l2yIQfnuexc&#41;)
+
+[//]: # (- [JavaScript Refresher - Reactive Accelerator course by Learn with Sumit]&#40;https://www.youtube.com/watch?v=3sdpkFZUhlA&#41;)
+
+[//]: # (- [Reactive Accelerator - Bangla React and Next.js course by Learn with Sumit]&#40;https://www.youtube.com/watch?v=666K4aizIu8&#41;)
+
+[//]: # (- [Episode 10 - JavaScript Framework wonders - Next js]&#40;https://www.youtube.com/watch?v=q2Uz3gE-1DA&#41;)
+
+[//]: # (- [Episode 9 - Web Dev Essentials - Harnessing the Power of Git &amp; GitHub]&#40;https://www.youtube.com/watch?v=13VAykLXbiw&#41;)
+
+[//]: # (<!-- YOUTUBE:END -->)
+
+[//]: # ()
+[//]: # (#### Business)
+
+[//]: # ()
+[//]: # (:email: &emsp;sayhitorainmaker@gmail.com)
+
+[//]: # (<br >)
+
+[//]: # (:email: &emsp;sumit@learnwithsumit.com)
+
+[//]: # (<br >)
+
+[//]: # (:email: &emsp;sumit@analyzenbd.com)
+
+[//]: # ()
+[//]: # (#### Profile Visits)
+
+[//]: # ()
+[//]: # (![visitors]&#40;https://visitor-badge.glitch.me/badge?page_id=learnwithsumit.learnwithsumit&#41;)
+
+[//]: # ()
+[//]: # (<details>)
+
+[//]: # (<summary>)
+
+[//]: # (  You wanna know more about me?)
+
+[//]: # (</summary>)
+
+[//]: # ()
+[//]: # (<br >)
+
+[//]: # ()
+[//]: # (I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!)
+
+[//]: # ()
+[//]: # (#### What is Learn with Sumit?)
+
+[//]: # ()
+[//]: # ("Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.)
+
+[//]: # ()
+[//]: # (#### Github Stats)
+
+[//]: # ()
+[//]: # (![learnwithsumit's github stats]&#40;https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs&#41;)
+
+[//]: # ()
+[//]: # (</details>)
